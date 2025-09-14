@@ -1,0 +1,12 @@
+bar:
+  height: 20
+  location: top
+  background: 00000000
+
+  center:
+    - clock:
+        content:
+#          - string: {text: , font: "BlexMono Nerd Font:style=solid:size=12"}
+#          - string: {text: "{date}", right-margin: 5}
+#          - string: {text: , font: "BlexMono Nerd Font:style=solid:size=12"}
+          - string: {text: "{time}", font: "BlexMono Nerd Font:style=solid:size=13"}
