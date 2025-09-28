@@ -1,6 +1,6 @@
 sort=-time
 layer=overlay
-background-color=#000000c0
+background-color=#000000e0
 width=300
 height=110
 border-size=2
@@ -11,10 +11,11 @@ max-icon-size=64
 default-timeout=5000
 ignore-timeout=1
 font=BlexMono Nerd Font 10
+progress-color=over #ffffff20
 
 [urgency=low]
 border-color=#ffffff40
-background-color=#000000a0
+background-color=#000000c0
 
 [urgency=normal]
 border-color=#ffffff80
